@@ -14,15 +14,16 @@ Roee by email:shraga89@campus.technion.ac.il
 
 To gain access to the full code go to https://bitbucket.org/tomers77/ontobuilder-research-environment/, there you can find information regarding supported matchers, statistics, experiments and more.
 
-##Installation:##
-#What you need ?#
+## Installation: ##
+# What you need ? #
 
 In order to install and work the ORE you need the following components installed at your enviroment :
 
 * MySQL Server ( for example: [MySQL Community Server](http://dev.mysql.com/downloads/mysql/))
 * MySQL Managment Tool ( for example: [MySQL Workbench](https://dev.mysql.com/downloads/workbench/))
+* Download all files from the git to your PC
 
-#Installation Steps#
+# Installation Steps #
 
 1. Download the datasets from [here](https://bitbucket.org/tomers77/ontobuilder-research-environment/downloads/dataset.zip) (remember where you saved them, you will need it).
 2. Download a database named "schemamatching" from this [mysql db dump](https://bitbucket.org/tomers77/ontobuilder-research-environment/downloads/schemamatching_02_04_13.sql).
