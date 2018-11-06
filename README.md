@@ -1,4 +1,4 @@
-### Welcome to the Ontobuilder Research Environment! ###
+# Welcome to the Ontobuilder Research Environment! #
 
 
 ![about.gif](https://bitbucket.org/repo/n9GKe/images/3183918637-about.gif)
@@ -15,7 +15,7 @@ Roee by email:shraga89@campus.technion.ac.il
 To gain access to the full code go to https://bitbucket.org/tomers77/ontobuilder-research-environment/, there you can find information regarding supported matchers, statistics, experiments and more.
 
 ## Installation: ##
-# What you need ? #
+### What you need ? ###
 
 In order to install and work the ORE you need the following components installed at your enviroment :
 
@@ -23,7 +23,7 @@ In order to install and work the ORE you need the following components installed
 * MySQL Managment Tool ( for example: [MySQL Workbench](https://dev.mysql.com/downloads/workbench/))
 * Download all files from the git to your PC
 
-# Installation Steps #
+### Installation Steps ###
 
 1. Download the datasets from [here](https://bitbucket.org/tomers77/ontobuilder-research-environment/downloads/dataset.zip) (remember where you saved them, you will need it).
 2. Download a database named "schemamatching" from this [mysql db dump](https://bitbucket.org/tomers77/ontobuilder-research-environment/downloads/schemamatching_02_04_13.sql).
@@ -64,6 +64,6 @@ After creating "schemamatching" database, (if you are working with the "basic" i
 
 After running this command you should check all queries have been successfully committed.
 
-# Check the Installation correctness #
+### Check the Installation correctness ###
 Run the following cmd: "java -jar ore.jar cmd ./res SimpleMatch 0 35 0 -f:0 -s:1"
 (look for the results in the res folder)
