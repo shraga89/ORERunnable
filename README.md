@@ -11,3 +11,5 @@ Development of ORE is managed by [Roee Shraga](sites.google.com/view/roee-shraga
  To report bugs, request assistance or suggest additional features,
 
 Roee by email:shraga89@campus.technion.ac.il
+
+To gain access to the full code go to https://bitbucket.org/tomers77/ontobuilder-research-environment/, there you can find information regarding supported matchers, statistics, experiments and more.
