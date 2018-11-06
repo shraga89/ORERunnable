@@ -51,6 +51,6 @@ After creating "schemamatching" database, (if you are working with the "basic" i
 (if it still fails try adding a full path to the file, for example: source c:\folder\that\holds\your\backup.sql).
 After running this command you should check all queries have been successfully committed.
 
-#Check the Installation correctness#
-Run the following cmd: "java -jar ORE.jar cmd ./res SimpleMatch 0 35 0 -f:0 -s:1"
+# Check the Installation correctness #
+Run the following cmd: "java -jar ore.jar cmd ./res SimpleMatch 0 35 0 -f:0 -s:1"
 (look for the results in the res folder)
